@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gpt-5-3-codex-spark.github.io/sitemap.xml
